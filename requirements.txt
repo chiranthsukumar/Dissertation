@@ -1,0 +1,13 @@
+streamlit==1.57.0
+streamlit-webrtc==0.64.6
+streamlit-autorefresh==1.0.1
+av==16.1.0
+tornado>=6.2
+opencv-python-headless==4.13.0.92
+numpy==2.4.4
+pillow==12.2.0
+insightface==0.7.3
+onnxruntime==1.25.1
+
+# Per-face emotion recognition (8-class AffectNet ONNX, ~16 MB)
+hsemotion-onnx==0.3.1
