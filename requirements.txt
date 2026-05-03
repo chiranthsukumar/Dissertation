@@ -8,6 +8,5 @@ numpy==2.4.4
 pillow==12.2.0
 insightface==0.7.3
 onnxruntime==1.25.1
-
-# Per-face emotion recognition (8-class AffectNet ONNX, ~16 MB)
-hsemotion-onnx==0.3.1
+torch==2.5.1
+transformers==4.46.3
