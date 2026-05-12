@@ -1,0 +1,14 @@
+streamlit==1.57.0
+streamlit-webrtc==0.64.6
+streamlit-autorefresh==1.0.1
+av==16.1.0
+tornado>=6.2
+opencv-python-headless==4.11.0.86
+numpy==1.26.4
+pillow==12.2.0
+insightface==0.7.3
+onnxruntime==1.25.1
+torch==2.5.1
+transformers==4.46.3
+ultralytics==8.3.40
+mediapipe==0.10.21
